@@ -47,7 +47,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](global terrorist.png)
+![image](global terrorist.png).
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
