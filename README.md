@@ -5,7 +5,7 @@ Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a pa
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
@@ -69,7 +69,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/jibrin-haruna">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
