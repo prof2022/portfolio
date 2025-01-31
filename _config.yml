@@ -1,4 +1,8 @@
-title: Jibrin Haruna
+title: "Jibrin Haruna"
 logo: WhatsApp Image 2025-01-30 at 11.05.37_864c05c6.jpg
 theme: jekyll-theme-minimal
-
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-readme-index
+markdown: kramdown
