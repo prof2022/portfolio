@@ -1,10 +1,3 @@
----
-title: "Jibrin Haruna Portfolio"
-layout: default
-theme: jekyll-theme-minimal
-description: "Welcome to my professional portfolio showcasing my projects and expertise in data science."
----
-
 
 ## ABOUT ME
 
