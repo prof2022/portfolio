@@ -1,4 +1,10 @@
 ---
+title: "Jibrin Haruna Portfolio"
+layout: default
+theme: jekyll-theme-minimal
+description: "Welcome to my professional portfolio showcasing my projects and expertise in data science."
+---
+
 
 ## ABOUT ME
 
@@ -6,7 +12,6 @@ Hello! I'm **Jibrin Haruna** 🤓, a **Data Scientist** and **Consultant** with 
 
 I thrive on delivering results by combining advanced analytics, strategic thinking, and a collaborative mindset. Whether it's building dashboard, developing database, building predictive models, visualizing trends, or streamlining processes, my mission is to create lasting value for clients and stakeholders.
 
----
 
 ## SKILLS
 
@@ -23,7 +28,6 @@ I thrive on delivering results by combining advanced analytics, strategic thinki
 - Exceptional communication and storytelling through data.
 - Collaborative team player with a client-first focus.
 
----
 
 ## MY PROJECTS
 
@@ -41,7 +45,6 @@ Managing ATM networks efficiently is crucial for any financial institution. This
 
 [Read More](https://github.com/prof2022/ATM-Bank-Analysis)
 
----
 
 ### **Sales Dashboard**
 ![image](sales.png)
@@ -55,7 +58,6 @@ Sales trends are the lifeline of any business. In this project, I developed an i
 
 [Read More](https://github.com/prof2022/Sales-Dashboard)
 
----
 
 ### **Drug Poisoning Data Analysis**
 ![image](https://github.com/prof2022/Drug-poisoning-data-analysis/blob/Master/assets/Screenshot%20(38).png)
@@ -69,7 +71,6 @@ With a rise in drug-related fatalities, this analysis sheds light on demographic
 
 [Read More](https://github.com/prof2022/Drug-poisoning-data-analysis)
 
----
 
 ### **Global Terrorism Analysis**
 ![image](global terrorist.png)
@@ -83,7 +84,6 @@ Understanding global terrorism trends is vital for crafting security policies. T
 
 [Read More](https://github.com/prof2022/Global-Terrorism)
 
----
 
 ## CONTACT DETAILS
 
@@ -97,4 +97,3 @@ Understanding global terrorism trends is vital for crafting security policies. T
 | ⬇️ **CV Download**      | [Download My CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf)               |
 | 🌐 **LinkedIn**         | [Jibrin Haruna](https://linkedin.com/in/jibrin-haruna)                                    |
 
----!
