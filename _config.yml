@@ -6,3 +6,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-readme-index
 markdown: kramdown
+
+title: "Jibrin Haruna Portfolio"
+logo: WhatsApp Image 2025-01-30 at 11.05.37_864c05c6.jpg
+description: "A professional portfolio showcasing my data analysis projects."
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-sitemap
+markdown: kramdown
+kramdown:
+  input: GFM
+
