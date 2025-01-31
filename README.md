@@ -40,15 +40,14 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](assets/Screenshot (38).png)
+![image](https://github.com/prof2022/Drug-poisoning-data-analysis/blob/Master/assets/Screenshot%20(38).png)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](global terrorist.png
-)
+![image](global terrorist.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
