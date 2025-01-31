@@ -1,25 +1,34 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Jibrin Haruna 🤓, a data scientit and a consultant with a passion for turning data into actionable insights. With experience across sales, security, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+**- ✅ Data cleaning and transformation.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
+**- ✅ Data wrangling.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
+
+**- ✅ visualization.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+
+**- ✅ Machine learning.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Agentic AI.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS 
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of my Data analysis projects .*
 
 **ATM Transaction Analysis.**
 ![image](https://github.com/prof2022/ATM-Bank-Analysis/blob/Master/Pictures/Screenshot%202023-05-25%20014147.png)
@@ -78,11 +87,10 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/jibrin-haruna">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/jibrin-haruna"> LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
