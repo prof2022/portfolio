@@ -17,12 +17,13 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Pictures/Screenshot 2023-05-25 014147.png
+)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -31,7 +32,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](sales.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
@@ -39,11 +40,20 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](assets/Screenshot (38).png)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+![image](global terrorist.png
+)
+
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 ## CONTACT DETAILS
@@ -53,15 +63,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:jibrinharuna07@gmail.com">jibrinharuna07@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 706-446-2202</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Abuja, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
