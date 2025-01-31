@@ -21,7 +21,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**ATM Transaction Analysis.**
 ![image](https://github.com/prof2022/ATM-Bank-Analysis/blob/Master/Pictures/Screenshot%202023-05-25%20014147.png)
 
 
@@ -30,7 +30,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Sales Dashboard.**
 
 ![image](sales.png)
 
@@ -38,7 +38,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Food Drug Dashboard.**
 
 ![image](https://github.com/prof2022/Drug-poisoning-data-analysis/blob/Master/assets/Screenshot%20(38).png)
 
@@ -46,7 +46,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Global Terrorism.**
 ![image](global terrorist.png).
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
