@@ -1,11 +1,10 @@
 logo: WhatsApp Image 2025-01-30 at 11.05.37_864c05c6.jpg
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-archives
+  - jekyll-readme-index
+markdown: kramdown
 
 
 
