@@ -94,5 +94,5 @@ Tracking **global terrorism** trends is crucial for **security policies**. This 
 |--------------|---------------------------------------------------------------|
 | 📞 **Phone** | 📱 (+234) 706-446-2202 |
 | 📍 **Location** | 🌍 Abuja, Nigeria |
-| 📄 **CV Download** | ⬇️ [Download My CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf) |
+| 📄 **CV Download** | ⬇️ [Download My CV](jibrin_Haruna_Data_Scientist_CV.pdf) |
 | 🌐 **LinkedIn** | 🔗 [Jibrin Haruna](https://linkedin.com/in/jibrin-haruna) |
