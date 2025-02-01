@@ -27,7 +27,7 @@ I thrive on delivering results by combining advanced analytics, strategic thinki
 *A showcase of impactful data-driven projects demonstrating expertise in analytics, visualization, and problem-solving.*
 
 ### **ATM Transactions Analysis**
-![ATM Analysis](Screenshot 2023-05-25 014147.png)
+![ATM Analysis](atm.png)
 
 Managing ATM networks efficiently is crucial for any financial institution. This project dives deep into transaction trends, customer demographics, and ATM performance to uncover actionable insights. By identifying underperforming locations and optimizing transaction durations, the analysis paved the way for improved customer experience and operational efficiency.
 
@@ -53,7 +53,7 @@ Sales trends are the lifeline of any business. In this project, I developed an i
 
 
 ### **Drug Poisoning Data Analysis**
-![image](Screenshot (38) (1).png)
+![image](drug.png)
 
 With a rise in drug-related fatalities, this analysis sheds light on demographic patterns and geographic hotspots of drug poisoning cases. By highlighting vulnerable groups and locations, the project contributed to targeted interventions and policy recommendations.
 
