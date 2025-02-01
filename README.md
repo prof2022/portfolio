@@ -66,7 +66,7 @@ With a rise in drug-related fatalities, this analysis sheds light on demographic
 
 
 ### **Global Terrorism Analysis**
-![image](global terrorist.png)
+![image](global-terrorist.png)
 
 Understanding global terrorism trends is vital for crafting security policies. This project visualized attacks over decades, analyzed regional hotspots, and provided actionable insights for stakeholders. 
 
