@@ -1,9 +1,5 @@
----
-
 # 🚀 **Jibrin Haruna - Data Scientist & Consultant**  
 🎯 Turning data into **actionable insights** | 🧠 Solving complex business challenges | 📊 **AI & Analytics Expert**  
-
----
 
 
 ## 🏆 **ABOUT ME**  
@@ -90,7 +86,6 @@ Tracking **global terrorism** trends is crucial for **security policies**. This 
 🔗 [Read More](https://github.com/prof2022/Global-Terrorism)  
 
 
-
 ## 📞 **CONTACT DETAILS**  
 
 💬 **Let's connect and build impactful solutions together!**  
@@ -101,4 +96,3 @@ Tracking **global terrorism** trends is crucial for **security policies**. This 
 | 📍 **Location** | 🌍 Abuja, Nigeria |
 | 📄 **CV Download** | ⬇️ [Download My CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf) |
 | 🌐 **LinkedIn** | 🔗 [Jibrin Haruna](https://linkedin.com/in/jibrin-haruna) |
-
