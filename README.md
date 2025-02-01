@@ -1,92 +1,104 @@
+---
 
-## ABOUT ME
+# 🚀 **Jibrin Haruna - Data Scientist & Consultant**  
+🎯 Turning data into **actionable insights** | 🧠 Solving complex business challenges | 📊 **AI & Analytics Expert**  
 
-Hello! I'm **Jibrin Haruna** 🤓, a **Data Scientist** and **Consultant** with a passion for turning data into actionable insights. My expertise spans **sales**, **security**, **finance**, and **customer service**, where I specialize in leveraging data to drive business growth, solve complex challenges, and unlock opportunities.
-
-I thrive on delivering results by combining advanced analytics, strategic thinking, and a collaborative mindset. Whether it's building dashboard, developing database, building predictive models, visualizing trends, or streamlining processes, my mission is to create lasting value for clients and stakeholders.
-
-
-## SKILLS
-
-### Core Skills:
-- ✅ **Data Cleaning and Transformation**: Converting raw data into structured, actionable formats for analysis.
-- ✅ **Data Wrangling**: Merging, reshaping, and enriching datasets to uncover insights.
-- ✅ **Visualization**: Building dashboards and reports to simplify decision-making.
-- ✅ **Machine Learning**: Creating predictive models to forecast outcomes and trends.
-- ✅ **Agentic AI**: Automating complex tasks with AI-driven solutions.
-- ✅ **Data Analytics Consulting**: Delivering tailored strategies for data-driven business growth.
-
-### Soft Skills:
-- Strong problem-solving abilities.
-- Exceptional communication and storytelling through data.
-- Collaborative team player with a client-first focus.
+---
 
 
-## MY PROJECTS
+## 🏆 **ABOUT ME**  
 
-*A showcase of impactful data-driven projects demonstrating expertise in analytics, visualization, and problem-solving.*
+👋 **Hello! I'm Jibrin Haruna**, a **Data Scientist** and **Consultant** with a passion for transforming raw data into **insightful solutions** that drive business growth and efficiency.  
 
-### **ATM Transactions Analysis**
-![ATM Analysis](atm.png)
+I specialize in:  
+🔹 **Sales, Security, Finance, and Customer Service Analytics**  
+🔹 **Predictive Modeling & AI-driven Decision Making**  
+🔹 **Interactive Dashboards & Visualization**  
+🔹 **Process Optimization & Business Intelligence Solutions**  
 
-Managing ATM networks efficiently is crucial for any financial institution. This project dives deep into transaction trends, customer demographics, and ATM performance to uncover actionable insights. By identifying underperforming locations and optimizing transaction durations, the analysis paved the way for improved customer experience and operational efficiency.
-
-#### Result:
-- Identified peak transaction hours and optimized ATM availability.
-- Increased utilization rate in low-performing locations by **15%**.
-- Delivered a comprehensive report for strategic decision-making.
-
-[Read More](https://github.com/prof2022/ATM-Bank-Analysis)
+💡 Whether it's **building dashboards**, **developing databases**, **creating predictive models**, **visualizing trends**, or **streamlining operations**, my goal is to **maximize impact** and **deliver meaningful insights** to stakeholders.  
 
 
-### **Sales Dashboard**
-![image](sales.png)
+## 🛠️ **SKILLS**  
 
-Sales trends are the lifeline of any business. In this project, I developed an interactive dashboard to monitor KPIs like revenue, orders, customer conversions, and more. The dashboard empowered stakeholders to track performance across months and identify growth opportunities.
+### 🔹 **Core Skills**
+- ✅ **Data Cleaning & Transformation** 🧹  
+- ✅ **Data Wrangling & Preprocessing** 📊  
+- ✅ **Interactive Dashboards & Visualization (Plotly, Dash, Power BI)** 📈  
+- ✅ **Machine Learning & Predictive Modeling** 🤖  
+- ✅ **Agentic AI & Automation** 🔥  
+- ✅ **Data Analytics Consulting & Strategic Decision-Making** 🎯  
 
-#### Result:
-- Visualized monthly sales growth and set realistic targets.
-- Boosted team performance by aligning goals with actionable metrics.
-- Increased customer retention rates by **10%** through data-driven strategies.
-
-[Read More](https://github.com/prof2022/Sales-Dashboard)
-
-
-### **Drug Poisoning Data Analysis**
-![image](drug.png)
-
-With a rise in drug-related fatalities, this analysis sheds light on demographic patterns and geographic hotspots of drug poisoning cases. By highlighting vulnerable groups and locations, the project contributed to targeted interventions and policy recommendations.
-
-#### Result:
-- Helped health organizations prioritize resources for at-risk demographics.
-- Identified regions with the highest fatality rates to guide preventive campaigns.
-- Contributed to a **25% reduction in response time** for critical cases.
-
-[Read More](https://github.com/prof2022/Drug-poisoning-data-analysis)
+### 🌟 **Soft Skills**
+- 🔹 Strong **problem-solving** & **critical thinking**  
+- 🔹 Excellent **data storytelling** & communication  
+- 🔹 Effective **collaboration** & teamwork 
 
 
-### **Global Terrorism Analysis**
-![image](global-terrorist.png)
+## 📂 **MY PROJECTS**  
+*A showcase of impactful **data-driven projects** demonstrating expertise in analytics, AI, and visualization.*
 
-Understanding global terrorism trends is vital for crafting security policies. This project visualized attacks over decades, analyzed regional hotspots, and provided actionable insights for stakeholders. 
+### **📌 Optimizing ATM Performance**
+![ATM Analysis](atm.png)  
 
-#### Result:
-- Created an interactive dashboard for trend analysis across regions.
-- Enabled policymakers to focus resources on high-risk areas.
-- Improved situational awareness and reporting accuracy.
+Efficient **ATM management** is crucial for financial institutions. This project analyzes **transaction trends**, **customer demographics**, and **ATM utilization** to enhance performance.  
 
-[Read More](https://github.com/prof2022/Global-Terrorism)
+🔹 **Results Achieved:**  
+✔️ Identified peak transaction hours & optimized ATM **availability**  
+✔️ Increased utilization rate in **low-performing locations** by **15%**  
+✔️ Delivered a **comprehensive banking report** for strategic planning  
+
+🔗 [Read More](https://github.com/prof2022/ATM-Bank-Analysis)  
 
 
-## CONTACT DETAILS
+### **📌 Sales Performance Dashboard**
+![Sales Dashboard](sales.png)  
 
-*Let’s connect and create impactful solutions together!*
+Sales trends **drive business success**. This **interactive dashboard** helps stakeholders track KPIs like **revenue, orders, and conversions**, identifying **growth opportunities**.  
 
-| Contact Info            | Details                                                                                   |
-|-------------------------|-------------------------------------------------------------------------------------------|
-| 📧 **Email**            | [jibrinharuna07@gmail.com](mailto:jibrinharuna07@gmail.com)                               |
-| 📞 **Phone**            | (+234) 706-446-2202                                                                      |
-| 📍 **Location**         | Abuja, Nigeria                                                                           |
-| ⬇️ **CV Download**      | [Download My CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf)               |
-| 🌐 **LinkedIn**         | [Jibrin Haruna](https://linkedin.com/in/jibrin-haruna)                                    |
+🔹 **Results Achieved:**  
+✔️ Visualized **monthly sales growth** & set **realistic targets**  
+✔️ Boosted **team performance** through data-driven strategies  
+✔️ Increased **customer retention rates** by **10%**  
+
+🔗 [Read More](https://github.com/prof2022/Sales-Dashboard)  
+
+
+### **📌 Understanding Drug Poisoning Trends**
+![Drug Analysis](drug.png)  
+
+This project analyzes **demographic & geographic patterns** of **drug poisoning cases**, providing key insights to **public health organizations** for **targeted interventions**.  
+
+🔹 **Results Achieved:**  
+✔️ Helped health agencies **prioritize resources** for high-risk groups  
+✔️ Identified **hotspot regions** for better policy-making  
+✔️ Reduced **critical response time** by **25%**  
+
+🔗 [Read More](https://github.com/prof2022/Drug-poisoning-data-analysis)  
+
+
+### **📌 Global Terrorism Dashboard**
+![Global Terrorism Analysis](global-terrorist.png)  
+
+Tracking **global terrorism** trends is crucial for **security policies**. This project visualizes **attack patterns**, **regional threats**, and provides data-driven **insights for policymakers**.  
+
+🔹 **Results Achieved:**  
+✔️ Created an **interactive dashboard** for **real-time trend analysis**  
+✔️ Enabled policymakers to **focus resources** on **high-risk areas**  
+✔️ Improved **situational awareness** & enhanced **security reporting**  
+
+🔗 [Read More](https://github.com/prof2022/Global-Terrorism)  
+
+
+
+## 📞 **CONTACT DETAILS**  
+
+💬 **Let's connect and build impactful solutions together!**  
+
+| 📩 **Email** | ✉️ [jibrinharuna07@gmail.com](mailto:jibrinharuna07@gmail.com) |
+|--------------|---------------------------------------------------------------|
+| 📞 **Phone** | 📱 (+234) 706-446-2202 |
+| 📍 **Location** | 🌍 Abuja, Nigeria |
+| 📄 **CV Download** | ⬇️ [Download My CV](https://etuk123456.github.io/portfolio1/docs/Profile.pdf) |
+| 🌐 **LinkedIn** | 🔗 [Jibrin Haruna](https://linkedin.com/in/jibrin-haruna) |
 
