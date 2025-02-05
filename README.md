@@ -91,7 +91,7 @@ This **AI-powered financial assistant** integrates multiple **intelligent agents
 
 🔗 [Read More](https://github.com/prof2022/Financial-Agent)  
 
-### **📌 Agentic System Fr Education**
+### **📌 AI System for Education**
 ![Curriculum AI](curriculum_ai.png)  
 
 An **AI-powered educational tool** that generates **schemes of work, lesson plans, and lesson notes** based on Nigerian academic standards. This system uses **machine learning, vector search, and web scraping** to retrieve **relevant educational content**.  
