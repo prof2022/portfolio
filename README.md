@@ -80,7 +80,7 @@ Tracking **global terrorism** trends is crucial for **security policies**. This 
 🔗 [Read More](https://github.com/prof2022/Global-Terrorism)  
 
 ### **📌 Financial AI Multi-Agent System**
-![Financial AI](financial_ai.png)  
+![Financial AI](financial_ai.jpeg)  
 
 This **AI-powered financial assistant** integrates multiple **intelligent agents** to assist users in budgeting, financial planning, investment management, and tax calculations. The system leverages **machine learning, NLP, and real-time financial data APIs** to provide **comprehensive financial insights**.  
 
@@ -92,7 +92,7 @@ This **AI-powered financial assistant** integrates multiple **intelligent agents
 🔗 [Read More](https://github.com/prof2022/Financial-Agent)  
 
 ### **📌 AI System for Education**
-![Curriculum AI](curriculum_ai.png)  
+![Curriculum AI](curriculum_ai.jpeg)  
 
 An **AI-powered educational tool** that generates **schemes of work, lesson plans, and lesson notes** based on Nigerian academic standards. This system uses **machine learning, vector search, and web scraping** to retrieve **relevant educational content**.  
 
