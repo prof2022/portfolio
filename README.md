@@ -101,7 +101,7 @@ An **AI-powered educational tool** that generates **schemes of work, lesson plan
 ✔️ Provided **personalized lesson materials** for educators  
 ✔️ Integrated **culturally relevant** educational examples  
 
-🔗 [Read More](https://github.com/prof2022/Curriculum-Builder-AI)  
+🔗 [Read More](https://github.com/prof2022/AI-Agent-for-Educator)  
 
 ## 📞 **CONTACT DETAILS**  
 
